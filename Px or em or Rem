@@ -1,0 +1,3 @@
+Pixel is the most commonly used unit of measurement as it occupies same space relative to the screen 
+em is relative to parent
+rem is relative to root html element
